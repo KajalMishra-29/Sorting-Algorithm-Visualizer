@@ -66,7 +66,7 @@ SWING and AWT : used for creating the GUI
 
 ### Run from an IDE 
 1. Import the project into your IDE        
-2. Run the SortingVisualizer.java class directly
+2. Run the `SortingVisualizer.java` class directly
 
 
 ## SCREENSHORTS
