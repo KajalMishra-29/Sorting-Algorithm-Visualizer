@@ -1,7 +1,7 @@
 # Sorting-Algorithm-Visualizer
 This is an interactive Java application that demonstrate various sorting algorithms through graphical interface. It is built using Java, Swing and AWT, this tool offers a clear, step-by-step visualization of how different sorting methods operate, making it an excellent resource for learning and teaching.
-<br><br>
 
+You can download the latest version of the Sorting Algorithm Visualizer JAR file from [here](https://github.com/user-attachments/files/19129272/Sorting_Algorithm_Visualizer.zip).
 ## FEATURES  
 1. Visualization of multiple sorting algorithms including :
    <ul>     
@@ -16,12 +16,10 @@ This is an interactive Java application that demonstrate various sorting algorit
 2. Real-time graphical representation of sorting process.
 3. Adjustable sorting speed.
 4. Highlighting of active elements during the sorting process with different colors.             
-<br><br>
 
 ## TECHNOLOGIES USED      
 JAVA : core language used for implementing sorting algorithms ans visualizations.            
 SWING and AWT : used for creating the GUI           
-<br><br>
 
 ## FILE STRUCTURE 
 -> CONTROLLERS   
@@ -42,7 +40,6 @@ SWING and AWT : used for creating the GUI
    <li>QuickSort.java</li>
    <li>RadixSort.java</li>
 </ul>
-<br><br>
 
 ## HOW TO RUN
 
@@ -70,7 +67,6 @@ SWING and AWT : used for creating the GUI
 ### Run from an IDE 
 1. Import the project into your IDE        
 2. Run the SortingVisualizer.java class directly
-<br><br>
 
 
 ## SCREENSHORTS
