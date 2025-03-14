@@ -11,7 +11,7 @@ public class BubbleSort implements SortingAlgorithm {
     private final int[] array;
     private final SortingPanel panel;
     private volatile boolean isSorting = true;
-    private final SortingVisualizer sv; // Reference to controllers.SortingVisualizer
+    private final SortingVisualizer sv;
     private final Color[] colors;
     private final Color orange = new Color(236, 143, 28);
     private final Color green = new Color(58, 204, 60);
