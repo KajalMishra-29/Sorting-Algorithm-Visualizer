@@ -69,7 +69,9 @@ SWING and AWT : used for creating the GUI
 2. Run the `SortingVisualizer.java` class directly
 
 
-## SCREENSHORTS
+## SCREENSHORTS / VIDEOS
+
+https://github.com/user-attachments/assets/95a5ea5b-fa1c-4874-a724-f907e7fd5714
 
 ![image](https://github.com/user-attachments/assets/e7597c2e-33a5-4c88-9a64-13189d9cef57)
 
