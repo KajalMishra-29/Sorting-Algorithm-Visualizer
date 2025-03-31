@@ -24,9 +24,6 @@ public class SortingVisualizer extends JFrame implements ActionListener {
         setLayout(null);
         setLocation(200,60);
 
-        // Obtain the graphics device to set full screen
-        GraphicsDevice gd = GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice();
-
         JLabel l1 = new JLabel("Enter bars : ");
         l1.setFont(new Font("Courier New", Font.BOLD, 19));
         l1.setBounds(60,650,150,30);
